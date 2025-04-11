@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.wav
+assets/
+summary_and_tasks.txt
+transcription.txt

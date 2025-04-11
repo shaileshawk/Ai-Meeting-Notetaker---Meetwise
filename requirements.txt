@@ -1,0 +1,7 @@
+sounddevice
+scipy
+numpy
+openai
+whisper
+python-dotenv
+selenium
